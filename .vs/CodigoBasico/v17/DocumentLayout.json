@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|d:\\universidad\\programacion\\cosas-de-cs\\basiccode\\codigobasico\\codigobasico\\95_nose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|solutionrelative:codigobasico\\95_nose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|d:\\universidad\\programacion\\cosas-de-cs\\basiccode\\codigobasico\\codigobasico\\94_nose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|solutionrelative:codigobasico\\94_nose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|d:\\universidad\\programacion\\cosas-de-cs\\basiccode\\codigobasico\\codigobasico\\9.2_nose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|solutionrelative:codigobasico\\9.2_nose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|d:\\universidad\\programacion\\cosas-de-cs\\basiccode\\codigobasico\\codigobasico\\9.1_generics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|solutionrelative:codigobasico\\9.1_generics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|d:\\universidad\\programacion\\cosas-de-cs\\basiccode\\codigobasico\\codigobasico\\8_propiedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|solutionrelative:codigobasico\\8_propiedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|d:\\universidad\\programacion\\cosas-de-cs\\basiccode\\codigobasico\\codigobasico\\7_interfaces_lists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|solutionrelative:codigobasico\\7_interfaces_lists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|d:\\universidad\\programacion\\cosas-de-cs\\basiccode\\codigobasico\\codigobasico\\6_clases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|solutionrelative:codigobasico\\6_clases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|d:\\universidad\\programacion\\cosas-de-cs\\basiccode\\codigobasico\\codigobasico\\5.2_multiarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|solutionrelative:codigobasico\\5.2_multiarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|d:\\universidad\\programacion\\cosas-de-cs\\basiccode\\codigobasico\\codigobasico\\5.1_conditional_operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|solutionrelative:codigobasico\\5.1_conditional_operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|d:\\universidad\\programacion\\cosas-de-cs\\basiccode\\codigobasico\\codigobasico\\4_exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|solutionrelative:codigobasico\\4_exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|d:\\universidad\\programacion\\cosas-de-cs\\basiccode\\codigobasico\\codigobasico\\3.2_advanced_methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|solutionrelative:codigobasico\\3.2_advanced_methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|d:\\universidad\\programacion\\cosas-de-cs\\basiccode\\codigobasico\\codigobasico\\3.1_methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|solutionrelative:codigobasico\\3.1_methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|d:\\universidad\\programacion\\cosas-de-cs\\basiccode\\codigobasico\\codigobasico\\2_string_methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|solutionrelative:codigobasico\\2_string_methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|d:\\universidad\\programacion\\cosas-de-cs\\basiccode\\codigobasico\\codigobasico\\1_operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|solutionrelative:codigobasico\\1_operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|d:\\universidad\\programacion\\cosas-de-cs\\basiccode\\codigobasico\\codigobasico\\0_basic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4540C8D-4F46-4CED-8463-162A0A4867E2}|CodigoBasico\\CodigoBasico.csproj|solutionrelative:codigobasico\\0_basic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "95_nose.cs",
+              "DocumentMoniker": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\95_nose.cs",
+              "RelativeDocumentMoniker": "CodigoBasico\\95_nose.cs",
+              "ToolTip": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\95_nose.cs",
+              "RelativeToolTip": "CodigoBasico\\95_nose.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T00:50:25.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "94_nose.cs",
+              "DocumentMoniker": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\94_nose.cs",
+              "RelativeDocumentMoniker": "CodigoBasico\\94_nose.cs",
+              "ToolTip": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\94_nose.cs",
+              "RelativeToolTip": "CodigoBasico\\94_nose.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T00:50:24.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "6_clases.cs",
+              "DocumentMoniker": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\6_clases.cs",
+              "RelativeDocumentMoniker": "CodigoBasico\\6_clases.cs",
+              "ToolTip": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\6_clases.cs",
+              "RelativeToolTip": "CodigoBasico\\6_clases.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAqwJAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:42:21.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "0_basic.cs",
+              "DocumentMoniker": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\0_basic.cs",
+              "RelativeDocumentMoniker": "CodigoBasico\\0_basic.cs",
+              "ToolTip": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\0_basic.cs",
+              "RelativeToolTip": "CodigoBasico\\0_basic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T20:49:01.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "3.1_methods.cs",
+              "DocumentMoniker": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\3.1_methods.cs",
+              "RelativeDocumentMoniker": "CodigoBasico\\3.1_methods.cs",
+              "ToolTip": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\3.1_methods.cs",
+              "RelativeToolTip": "CodigoBasico\\3.1_methods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T21:54:17.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "3.2_advanced_methods.cs",
+              "DocumentMoniker": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\3.2_advanced_methods.cs",
+              "RelativeDocumentMoniker": "CodigoBasico\\3.2_advanced_methods.cs",
+              "ToolTip": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\3.2_advanced_methods.cs",
+              "RelativeToolTip": "CodigoBasico\\3.2_advanced_methods.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwD0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:28:15.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "7_interfaces_Lists.cs",
+              "DocumentMoniker": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\7_interfaces_Lists.cs",
+              "RelativeDocumentMoniker": "CodigoBasico\\7_interfaces_Lists.cs",
+              "ToolTip": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\7_interfaces_Lists.cs",
+              "RelativeToolTip": "CodigoBasico\\7_interfaces_Lists.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwFUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T22:27:51.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "1_operaciones.cs",
+              "DocumentMoniker": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\1_operaciones.cs",
+              "RelativeDocumentMoniker": "CodigoBasico\\1_operaciones.cs",
+              "ToolTip": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\1_operaciones.cs",
+              "RelativeToolTip": "CodigoBasico\\1_operaciones.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T20:44:32.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "2_string_methods.cs",
+              "DocumentMoniker": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\2_string_methods.cs",
+              "RelativeDocumentMoniker": "CodigoBasico\\2_string_methods.cs",
+              "ToolTip": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\2_string_methods.cs",
+              "RelativeToolTip": "CodigoBasico\\2_string_methods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T21:45:05.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "4_exceptions.cs",
+              "DocumentMoniker": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\4_exceptions.cs",
+              "RelativeDocumentMoniker": "CodigoBasico\\4_exceptions.cs",
+              "ToolTip": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\4_exceptions.cs",
+              "RelativeToolTip": "CodigoBasico\\4_exceptions.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:29:43.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "5.1_conditional_operator.cs",
+              "DocumentMoniker": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\5.1_conditional_operator.cs",
+              "RelativeDocumentMoniker": "CodigoBasico\\5.1_conditional_operator.cs",
+              "ToolTip": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\5.1_conditional_operator.cs",
+              "RelativeToolTip": "CodigoBasico\\5.1_conditional_operator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:34:05.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "8_propiedades.cs",
+              "DocumentMoniker": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\8_propiedades.cs",
+              "RelativeDocumentMoniker": "CodigoBasico\\8_propiedades.cs",
+              "ToolTip": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\8_propiedades.cs",
+              "RelativeToolTip": "CodigoBasico\\8_propiedades.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T23:03:19.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "9.1_generics.cs",
+              "DocumentMoniker": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\9.1_generics.cs",
+              "RelativeDocumentMoniker": "CodigoBasico\\9.1_generics.cs",
+              "ToolTip": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\9.1_generics.cs",
+              "RelativeToolTip": "CodigoBasico\\9.1_generics.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T00:04:58.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "9.2_nose.cs",
+              "DocumentMoniker": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\9.2_nose.cs",
+              "RelativeDocumentMoniker": "CodigoBasico\\9.2_nose.cs",
+              "ToolTip": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\9.2_nose.cs",
+              "RelativeToolTip": "CodigoBasico\\9.2_nose.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T00:43:11.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "5.2_multiArray.cs",
+              "DocumentMoniker": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\5.2_multiArray.cs",
+              "RelativeDocumentMoniker": "CodigoBasico\\5.2_multiArray.cs",
+              "ToolTip": "D:\\Universidad\\Programacion\\cosas-de-Cs\\basicCode\\CodigoBasico\\CodigoBasico\\5.2_multiArray.cs",
+              "RelativeToolTip": "CodigoBasico\\5.2_multiArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:39:06.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

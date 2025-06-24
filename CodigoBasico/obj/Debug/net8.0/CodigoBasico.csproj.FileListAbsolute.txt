@@ -1,0 +1,14 @@
+D:\Universidad\Programacion\cosas-de-Cs\basicCode\CodigoBasico\CodigoBasico\bin\Debug\net8.0\CodigoBasico.exe
+D:\Universidad\Programacion\cosas-de-Cs\basicCode\CodigoBasico\CodigoBasico\bin\Debug\net8.0\CodigoBasico.deps.json
+D:\Universidad\Programacion\cosas-de-Cs\basicCode\CodigoBasico\CodigoBasico\bin\Debug\net8.0\CodigoBasico.runtimeconfig.json
+D:\Universidad\Programacion\cosas-de-Cs\basicCode\CodigoBasico\CodigoBasico\bin\Debug\net8.0\CodigoBasico.dll
+D:\Universidad\Programacion\cosas-de-Cs\basicCode\CodigoBasico\CodigoBasico\bin\Debug\net8.0\CodigoBasico.pdb
+D:\Universidad\Programacion\cosas-de-Cs\basicCode\CodigoBasico\CodigoBasico\obj\Debug\net8.0\CodigoBasico.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Programacion\cosas-de-Cs\basicCode\CodigoBasico\CodigoBasico\obj\Debug\net8.0\CodigoBasico.AssemblyInfoInputs.cache
+D:\Universidad\Programacion\cosas-de-Cs\basicCode\CodigoBasico\CodigoBasico\obj\Debug\net8.0\CodigoBasico.AssemblyInfo.cs
+D:\Universidad\Programacion\cosas-de-Cs\basicCode\CodigoBasico\CodigoBasico\obj\Debug\net8.0\CodigoBasico.csproj.CoreCompileInputs.cache
+D:\Universidad\Programacion\cosas-de-Cs\basicCode\CodigoBasico\CodigoBasico\obj\Debug\net8.0\CodigoBasico.dll
+D:\Universidad\Programacion\cosas-de-Cs\basicCode\CodigoBasico\CodigoBasico\obj\Debug\net8.0\refint\CodigoBasico.dll
+D:\Universidad\Programacion\cosas-de-Cs\basicCode\CodigoBasico\CodigoBasico\obj\Debug\net8.0\CodigoBasico.pdb
+D:\Universidad\Programacion\cosas-de-Cs\basicCode\CodigoBasico\CodigoBasico\obj\Debug\net8.0\CodigoBasico.genruntimeconfig.cache
+D:\Universidad\Programacion\cosas-de-Cs\basicCode\CodigoBasico\CodigoBasico\obj\Debug\net8.0\ref\CodigoBasico.dll
