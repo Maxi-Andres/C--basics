@@ -12,3 +12,11 @@ D:\Universidad\Programacion\cosas-de-Cs\basicCode\CodigoBasico\CodigoBasico\obj\
 D:\Universidad\Programacion\cosas-de-Cs\basicCode\CodigoBasico\CodigoBasico\obj\Debug\net8.0\CodigoBasico.pdb
 D:\Universidad\Programacion\cosas-de-Cs\basicCode\CodigoBasico\CodigoBasico\obj\Debug\net8.0\CodigoBasico.genruntimeconfig.cache
 D:\Universidad\Programacion\cosas-de-Cs\basicCode\CodigoBasico\CodigoBasico\obj\Debug\net8.0\ref\CodigoBasico.dll
+C:\Users\Max\Desktop\Universidad\Programacion\cosas-de-Cs\basicCode\CodigoBasico\obj\Debug\net8.0\CodigoBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Desktop\Universidad\Programacion\cosas-de-Cs\basicCode\CodigoBasico\obj\Debug\net8.0\CodigoBasico.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\Universidad\Programacion\cosas-de-Cs\basicCode\CodigoBasico\obj\Debug\net8.0\CodigoBasico.AssemblyInfo.cs
+C:\Users\Max\Desktop\Universidad\Programacion\cosas-de-Cs\basicCode\CodigoBasico\obj\Debug\net8.0\CodigoBasico.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\Universidad\Programacion\cosas-de-Cs\basicCode\CodigoBasico\obj\Debug\net8.0\CodigoBasico.sourcelink.json
+C:\Users\Max\Desktop\Universidad\Programacion\cosas-de-Cs\basicCode\CodigoBasico\obj\Debug\net8.0\CodigoBasico.dll
+C:\Users\Max\Desktop\Universidad\Programacion\cosas-de-Cs\basicCode\CodigoBasico\obj\Debug\net8.0\refint\CodigoBasico.dll
+C:\Users\Max\Desktop\Universidad\Programacion\cosas-de-Cs\basicCode\CodigoBasico\obj\Debug\net8.0\CodigoBasico.pdb
